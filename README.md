@@ -1,8 +1,8 @@
-\# 3-Tier Secure Cloud Architecture (Azure \& Terraform)
+\ 3-Tier Secure Cloud Architecture (Azure \& Terraform)
 
 
 
-\##  Project Summary
+\  Project Summary
 
 
 
@@ -14,7 +14,7 @@ Designed and partially implemented a secure 3-tier cloud architecture in Azure u
 
 
 
-\##  Architecture Overview
+\  Architecture Overview
 
 
 
@@ -32,7 +32,7 @@ Designed and partially implemented a secure 3-tier cloud architecture in Azure u
 
 
 
-\##  Key Security Principles
+\  Key Security Principles
 
 
 
@@ -50,7 +50,7 @@ Designed and partially implemented a secure 3-tier cloud architecture in Azure u
 
 
 
-\##  Technologies Used
+\  Technologies Used
 
 
 
@@ -74,7 +74,7 @@ Designed and partially implemented a secure 3-tier cloud architecture in Azure u
 
 
 
-\##  Network Design
+\  Network Design
 
 
 
@@ -108,7 +108,7 @@ Designed and partially implemented a secure 3-tier cloud architecture in Azure u
 
 
 
-\##  Infrastructure Design
+\  Infrastructure Design
 
 
 
@@ -126,7 +126,7 @@ Designed and partially implemented a secure 3-tier cloud architecture in Azure u
 
 
 
-\##  Project Structure
+\  Project Structure
 
 
 
@@ -162,7 +162,7 @@ infra/
 
 
 
-\##  Key Outcomes
+\  Key Outcomes
 
 
 
@@ -180,7 +180,7 @@ infra/
 
 
 
-\##  Challenges \& Lessons Learned
+\  Challenges \& Lessons Learned
 
 
 
@@ -198,7 +198,7 @@ infra/
 
 
 
-\##  Future Improvements
+\  Future Improvements
 
 
 
@@ -218,7 +218,7 @@ infra/
 
 
 
-\##  Author
+\  Author
 
 
 
